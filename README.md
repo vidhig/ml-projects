@@ -20,7 +20,7 @@ This project involves using **multinomial naive bayes** and a **linear SVM** cla
 
 > Use NLP and clustering on movie plot summaries from IMDb and Wikipedia to quantify movie similarity.
 
-This project involves using *kmeans* clustering on the *TF-IDF* representations of movie plot summaries to determine which movies are most similar.
+This project involves using **kmeans** clustering on the **TF-IDF** representations of movie plot summaries to determine which movies are most similar.
 
 ### Word Frequency in Moby Dick
 
