@@ -39,3 +39,9 @@ This project involves **web-scraping** news headlines for Facebook and Tesla fro
 > Use NLP on NIPS papers to uncover the trendiest topics in machine learning research.
 
 This project involves using **LDA (Latent Dirichlet Allocation)** on **count frequency** representation of the titles of NIPS papers to determine what are the trendiest topics in machine learning these days.
+
+### Predicting Employee Turn Over
+
+> Use tree based classification to predict employee churn.
+
+This project involves using **Decision Trees** and **Random Forest Classifier** to predict if an employee is likely to stay or quit.
